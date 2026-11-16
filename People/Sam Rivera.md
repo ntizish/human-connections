@@ -1,6 +1,7 @@
 ---
 type: person
 connection_rating: 4
+contact: https://instagram.com/samrivera
 tags:
   - person
 ---

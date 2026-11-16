@@ -1,6 +1,7 @@
 ---
 type: person
 connection_rating: 2
+contact: https://twitter.com/chrismoreau
 tags:
   - person
 ---

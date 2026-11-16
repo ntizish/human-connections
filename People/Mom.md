@@ -1,6 +1,7 @@
 ---
 type: person
 connection_rating: 5
+contact: tel:+1-555-000-0001
 tags:
   - person
 ---

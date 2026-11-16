@@ -1,6 +1,7 @@
 ---
 type: person
 connection_rating:
+contact:
 tags:
   - person
 ---

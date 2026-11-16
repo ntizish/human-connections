@@ -1,6 +1,7 @@
 ---
 type: person
 connection_rating: 3
+contact: https://linkedin.com/in/jamiepark
 tags:
   - person
 ---
