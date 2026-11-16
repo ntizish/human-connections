@@ -10,11 +10,11 @@ Five broad levels are easier to distinguish honestly than ten finely graded scor
 
 | Level | Name | Meaning and examples |
 | --- | --- | --- |
-| 1 | Shared past | We know of each other, but the context that connected us is gone. Nothing meaningful connects us now, and I see no emotional, sexual or practical reason to reconnect. No dislike is implied. (Old classmates or acquaintances from a past setting, with no remaining shared context or interest in contact.) |
-| 2 | Loose connection | Something still connects us, or there is a genuine reason or interest to meet or communicate again, but the connection is peripheral rather than solid and ongoing. (An older acquaintance I still cross paths with because we take our children to the same kindergarten; a former contact I would genuinely like to catch up with.) |
-| 3 | Everyday connection | We have a solid, ongoing connection through regular interaction or a shared part of life, even when the contact comes with the setting rather than a deliberate choice. We are not necessarily personally close. (Colleagues I interact with every day; people I regularly work or spend time with through a shared activity.) |
-| 4 | Close friend | There is personal closeness, trust and care beyond simply sharing a setting. We choose to spend time together and can rely on each other. (Friends I see outside work; a colleague who has become a genuine personal friend.) |
-| 5 | Inner circle | One of my closest and most important people, whom I trust with most things in my life. Deep emotional closeness and a central place in my life. (A best friend, partner, loved one or parent, such as my mum, when that closeness and trust are genuinely there.) |
+| 1 | Shared past | We know of each other, but the context that connected us is gone. Nothing meaningful connects us now, and I see no emotional, sexual or practical reason to reconnect. No dislike is implied. (Old classmates, former acquaintances.) |
+| 2 | Loose connection | Something still connects us, or there is a genuine reason or interest to meet or communicate again, but the connection is peripheral rather than solid and ongoing. (Occasional acquaintances, old contacts with a remaining shared interest.) |
+| 3 | Everyday connection | We have a solid, ongoing connection through regular interaction or a shared part of life, even when the contact comes with the setting rather than a deliberate choice. We are not necessarily personally close. (Colleagues, people from shared activities.) |
+| 4 | Close friend | There is personal closeness, trust and care beyond simply sharing a setting. We choose to spend time together and can rely on each other. (Close friends, friends outside work.) |
+| 5 | Inner circle | One of my closest and most important people, whom I trust with most things in my life. Deep emotional closeness and a central place in my life. (Best friend, partner, mum or another close family member.) |
 
 The useful distinctions are **1 vs 2: an ended connection versus a remaining thread**, **2 vs 3: peripheral contact versus a solid ongoing connection**, **3 vs 4: shared context versus personal closeness**, and **4 vs 5: close friendship versus my innermost circle**.
 
