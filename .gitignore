@@ -1,0 +1,9 @@
+# Device-specific Obsidian state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Obsidian trash and operating-system files
+.trash/
+.DS_Store
+Thumbs.db
