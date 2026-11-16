@@ -11,6 +11,8 @@ tags:
 
 # Full Name
 
+Connected to: [[Me]]
+
 ## In a few words
 
 <!-- Who they are to me, how we met, and what makes this connection distinctive. A few sentences are enough. -->

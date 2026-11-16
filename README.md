@@ -6,19 +6,19 @@ Not a networking pipeline or a ranking of people's worth.
 
 ## The 1–5 connection system
 
-Five broad levels are easier to distinguish honestly than ten finely graded scores. The number describes your connection with someone, from a shared past with no desired continuation to your closest friendships.
+Five broad levels are easier to distinguish honestly than ten finely graded scores. The number describes your connection with someone, from a shared past with no remaining reason to connect to your closest people.
 
-| Level | Name | Meaning |
+| Level | Name | Meaning and examples |
 | --- | --- | --- |
-| 1 | Shared past | We know who each other are, but there is no active relationship and I see no reason to meet or communicate again. For example, a former classmate whose life no longer overlaps with mine. No dislike is implied. |
-| 2 | Open door | There is little or no current contact, but I see genuine potential interest in meeting or talking again. More than the abstract possibility of crossing paths: I would actually welcome it. |
-| 3 | In touch | We have a real, ongoing connection. We talk or meet, even occasionally, and enjoy staying connected, but we are not close confidants. |
-| 4 | Close friend | There is meaningful trust, care and personal openness. We can rely on each other and have a significant place in each other's lives. |
-| 5 | Inner circle | My best friend or one of my most important friends. Deep trust, emotional closeness and a central place in my life. This can describe more than one person. |
+| 1 | Shared past | We know of each other, but the context that connected us is gone. Nothing meaningful connects us now, and I see no emotional, sexual or practical reason to reconnect. No dislike is implied. (Old classmates or acquaintances from a past setting, with no remaining shared context or interest in contact.) |
+| 2 | Loose connection | Something still connects us, or there is a genuine reason or interest to meet or communicate again, but the connection is peripheral rather than solid and ongoing. (An older acquaintance I still cross paths with because we take our children to the same kindergarten; a former contact I would genuinely like to catch up with.) |
+| 3 | Everyday connection | We have a solid, ongoing connection through regular interaction or a shared part of life, even when the contact comes with the setting rather than a deliberate choice. We are not necessarily personally close. (Colleagues I interact with every day; people I regularly work or spend time with through a shared activity.) |
+| 4 | Close friend | There is personal closeness, trust and care beyond simply sharing a setting. We choose to spend time together and can rely on each other. (Friends I see outside work; a colleague who has become a genuine personal friend.) |
+| 5 | Inner circle | One of my closest and most important people, whom I trust with most things in my life. Deep emotional closeness and a central place in my life. (A best friend, partner, loved one or parent, such as my mum, when that closeness and trust are genuinely there.) |
 
-The useful distinctions are **1 vs 2: whether I want the door open**, **2 vs 3: potential versus an existing connection**, **3 vs 4: contact versus closeness**, and **4 vs 5: close friendship versus my innermost circle**.
+The useful distinctions are **1 vs 2: an ended connection versus a remaining thread**, **2 vs 3: peripheral contact versus a solid ongoing connection**, **3 vs 4: shared context versus personal closeness**, and **4 vs 5: close friendship versus my innermost circle**.
 
-These are categories, not a mathematical measurement. A 4 is not twice as meaningful as a 2. Do not average factors or use decimals.
+These are categories, not a mathematical measurement. A 4 is not twice as meaningful as a 2. Do not average factors or use decimals. Examples are parallels, not automatic assignments: not every colleague is a 3, every friend a 4, or every partner or parent a 5.
 
 ### How to assign a level
 
@@ -26,7 +26,7 @@ These are categories, not a mathematical measurement. A 4 is not twice as meanin
 - Leave `connection_rating` blank when unsure. Add `rating_date` and a brief explanation when assigning it.
 - Consider trust and closeness, not just message frequency. Daily contact does not automatically make a colleague a 4; a trusted long-distance best friend can remain a 5.
 - Keep past significance in the story. Someone who used to be your closest friend is not automatically a 5 today.
-- A 2 means openness, not a promise to reconnect. A 1 is not a failure to repair.
+- A 2 is not a promise to reconnect. A 1 is not a failure to repair.
 - Revisit a rating when something meaningful changes, not on an automatic schedule.
 
 See [Connection scale.md](Connection%20scale.md) for the same guide inside the vault.
@@ -46,6 +46,7 @@ Opening the folder in Obsidian does not automatically set up syncing or Git back
 
 ## File structure
 
+- [Me.md](Me.md): the central node of your personal graph. No biography is required.
 - [Connections.md](Connections.md): entry point to your people map.
 - [Connection scale.md](Connection%20scale.md): rating reference.
 - `People/`: one Markdown file per person.
@@ -53,7 +54,15 @@ Opening the folder in Obsidian does not automatically set up syncing or Git back
 
 Copy the person template into `People/Full Name.md`. Write a short summary, your shared story, where you stand now, and what you want from the connection, if anything. Link the note from `Connections.md`.
 
-Connect known relationships with `[[Full Name]]`. Obsidian's graph displays those links; the rating alone does not create edges or control their appearance. No plugins are required. Optionally configure the built-in Templates plugin to use `Templates/` and exclude that folder from the graph.
+### The Me point in Obsidian
+
+Every person note created from the template includes `Connected to: [[Me]]`. That link creates an edge from the person to `Me.md`; the Me note itself can remain almost empty. You do not need to maintain a second list of links inside it.
+
+Open **Me → Local graph** at depth **1** to see the central Me point and all person notes linking to it. Exclude `path:Templates` using the graph's filter so the template itself does not appear as a person. No people are prefilled, so the graph will acquire its connections as you add real notes in your private copy.
+
+Connect people to each other with `[[Full Name]]` only when their relationship is known. The global graph shows those links too, alongside documentation notes. The rating alone does not create graph edges or control their appearance.
+
+No plugins are required. Optionally configure the built-in Templates plugin to use `Templates/`.
 
 ## Reflection principles
 

@@ -2,23 +2,23 @@
 
 Five broad categories for the connection today, not a ranking of a person's worth.
 
-| Level | Name | Meaning |
+| Level | Name | Meaning and examples |
 | --- | --- | --- |
-| 1 | Shared past | We are aware of each other, but there is no active relationship and I see no reason to meet or communicate again. A former classmate with no desired continuation, for example. No dislike is implied. |
-| 2 | Open door | Little or no current contact, but genuine potential interest in meeting or communicating again. I would welcome reconnecting, rather than merely acknowledging it is possible. |
-| 3 | In touch | A real, ongoing connection. We talk or meet, even occasionally, and enjoy staying connected, without being close confidants. |
-| 4 | Close friend | Meaningful trust, care and personal openness. We can rely on each other and have a significant place in each other's lives. |
-| 5 | Inner circle | My best friend or one of my most important friends. Deep trust, emotional closeness and a central place in my life. More than one person can belong here. |
+| 1 | Shared past | We know of each other, but the context that connected us is gone. Nothing meaningful connects us now, and I see no emotional, sexual or practical reason to reconnect. No dislike is implied. (Old classmates or acquaintances from a past setting, with no remaining shared context or interest in contact.) |
+| 2 | Loose connection | Something still connects us, or there is a genuine reason or interest to meet or communicate again, but the connection is peripheral rather than solid and ongoing. (An older acquaintance I still cross paths with because we take our children to the same kindergarten; a former contact I would genuinely like to catch up with.) |
+| 3 | Everyday connection | We have a solid, ongoing connection through regular interaction or a shared part of life, even when the contact comes with the setting rather than a deliberate choice. We are not necessarily personally close. (Colleagues I interact with every day; people I regularly work or spend time with through a shared activity.) |
+| 4 | Close friend | There is personal closeness, trust and care beyond simply sharing a setting. We choose to spend time together and can rely on each other. (Friends I see outside work; a colleague who has become a genuine personal friend.) |
+| 5 | Inner circle | One of my closest and most important people, whom I trust with most things in my life. Deep emotional closeness and a central place in my life. (A best friend, partner, loved one or parent, such as my mum, when that closeness and trust are genuinely there.) |
 
 ## Choosing a level
 
-- **1 or 2:** do I genuinely want the door open?
-- **2 or 3:** is this potential, or an existing connection?
-- **3 or 4:** are we in touch, or meaningfully close?
+- **1 or 2:** has the connection ended, or is there still a thread or a reason to reconnect?
+- **2 or 3:** a peripheral connection, or a solid ongoing part of life?
+- **3 or 4:** shared context and contact, or personal closeness beyond that setting?
 - **4 or 5:** a close friend, or my innermost circle?
 
-Choose the best fit from my own perspective, not a claim about their feelings. Leave the rating blank when unsure. Record its date and a sentence explaining it.
+Examples are parallels, not automatic assignments. Not every colleague is a 3, every friend a 4, or every partner or parent a 5. Choose the best fit from my own perspective, not a claim about their feelings. Leave the rating blank when unsure. Record its date and a sentence explaining it.
 
-Trust matters more than a message count. A long-distance best friend can remain a 5; daily contact alone does not make someone a 4. Past significance belongs in the story, not automatically in today's rating.
+Trust matters more than a message count at the close end of the scale. A long-distance best friend can remain a 5; daily contact alone does not make someone a 4. Past significance belongs in the story, not automatically in today's rating.
 
-Use whole numbers only, without averaging factors. A 2 is openness, not an obligation to reconnect. A 1 is not a failure to fix. Revisit only when meaningful change warrants it.
+Use whole numbers only, without averaging factors. A 2 is not an obligation to reconnect. A 1 is not a failure to fix. Revisit only when meaningful change warrants it.
