@@ -29,8 +29,6 @@ These are categories, not a mathematical measurement. A 4 is not twice as meanin
 - A 2 is not a promise to reconnect. A 1 is not a failure to repair.
 - Revisit a rating when something meaningful changes, not on an automatic schedule.
 
-See [Connection scale.md](Connection%20scale.md) for the same guide inside the vault.
-
 ## Make your own private vault
 
 This repository is a **public template**. Keep real names, personal reflections and ratings out of it.
@@ -46,13 +44,11 @@ Opening the folder in Obsidian does not automatically set up syncing or Git back
 
 ## File structure
 
-- [Me.md](Me.md): the central node of your personal graph. No biography is required.
-- [Connections.md](Connections.md): entry point to your people map.
-- [Connection scale.md](Connection%20scale.md): rating reference.
+- (Me.md): the central node of your personal graph. No biography is required.
 - `People/`: one Markdown file per person.
 - [Templates/Person.md](Templates/Person.md): a starting point, not a mandatory questionnaire.
 
-Copy the person template into `People/Full Name.md`. Write a short summary, your shared story, where you stand now, and what you want from the connection, if anything. Link the note from `Connections.md`.
+Copy the person template into `People/Full Name.md`. Write a short summary, your shared story, where you stand now, and what you want from the connection, if anything.
 
 ### The Me point in Obsidian
 
