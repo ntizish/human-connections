@@ -1,24 +1,24 @@
 # Connection scale
 
-A rough 1–10 description of our connection today, not a score for the person. Intermediate descriptions are guides, not rigid thresholds.
+Five broad categories for the connection today, not a ranking of a person's worth.
 
-| Rating | What it means |
-| --- | --- |
-| 1 | We do not see or talk to each other, and I do not expect us to meet meaningfully again. |
-| 2 | Part of my past. No active contact, though a meaningful encounter is not impossible. |
-| 3 | A dormant connection. We could reconnect, but currently share little of our lives. |
-| 4 | Occasional contact or encounters, with limited closeness today. |
-| 5 | A friendly connection. We catch up sometimes and there is mutual interest. |
-| 6 | An ongoing connection. We share some of our lives and make an effort to stay in touch. |
-| 7 | A close connection with trust, meaningful conversations and mutual support. |
-| 8 | A very close connection. We are involved in each other's lives and can rely on each other. |
-| 9 | One of my closest people. Deep trust and a strong, active place in each other's lives. |
-| 10 | Closest friends or equivalent intimacy right now. Constant or very frequent meaningful communication and deeply shared lives. |
+| Level | Name | Meaning |
+| --- | --- | --- |
+| 1 | Shared past | We are aware of each other, but there is no active relationship and I see no reason to meet or communicate again. A former classmate with no desired continuation, for example. No dislike is implied. |
+| 2 | Open door | Little or no current contact, but genuine potential interest in meeting or communicating again. I would welcome reconnecting, rather than merely acknowledging it is possible. |
+| 3 | In touch | A real, ongoing connection. We talk or meet, even occasionally, and enjoy staying connected, without being close confidants. |
+| 4 | Close friend | Meaningful trust, care and personal openness. We can rely on each other and have a significant place in each other's lives. |
+| 5 | Inner circle | My best friend or one of my most important friends. Deep trust, emotional closeness and a central place in my life. More than one person can belong here. |
 
-## How to use it
+## Choosing a level
 
-Choose the best overall fit. Consider emotional closeness, mutual effort, contact and shared life together. Frequent contact alone does not make someone close; distance alone does not erase trust.
+- **1 or 2:** do I genuinely want the door open?
+- **2 or 3:** is this potential, or an existing connection?
+- **3 or 4:** are we in touch, or meaningfully close?
+- **4 or 5:** a close friend, or my innermost circle?
 
-Record the date and a sentence explaining the rating. Leave it blank if there is not enough context. Past significance and a wish to reconnect belong in the note separately, rather than being squeezed into this number.
+Choose the best fit from my own perspective, not a claim about their feelings. Leave the rating blank when unsure. Record its date and a sentence explaining it.
 
-Change ratings when reflection warrants it, not on an automatic schedule. A low number is not a task to fix.
+Trust matters more than a message count. A long-distance best friend can remain a 5; daily contact alone does not make someone a 4. Past significance belongs in the story, not automatically in today's rating.
+
+Use whole numbers only, without averaging factors. A 2 is openness, not an obligation to reconnect. A 1 is not a failure to fix. Revisit only when meaningful change warrants it.

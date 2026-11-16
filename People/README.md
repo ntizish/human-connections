@@ -1,5 +1,5 @@
 # People
 
-One Markdown file per person, named `Full Name.md`. Start with [[Person]] in the Templates folder, and add a link to the new note in [[Connections]].
+This public template intentionally contains no personal entries. Create your own **private repository using the template**, then add one Markdown file per person, named `Full Name.md`.
 
-No person notes have been created yet. People, memories and ratings should come from my own reflections, not assumptions.
+Copy `Templates/Person.md` and add a link to the new note in [[Connections]]. Use [[Connection scale]] for the 1–5 guide. People, memories and ratings should come from your own reflections, not assumptions.
