@@ -10,6 +10,8 @@ tags:
 
 Connected to: [[Me]]
 
+Contexts: [[Contexts/Family|Family]]
+
 ## Context
 
 My mother. Present throughout my life. The relationship has changed shape over the years but the closeness has remained constant. Regular contact, deep trust — one of the few people I can be fully honest with. I want to be more intentional about the time we spend together.
